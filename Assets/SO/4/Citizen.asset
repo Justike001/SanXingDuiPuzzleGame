@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d9934667dfd62343832f913d7fa7278, type: 3}
+  m_Name: Citizen
+  m_EditorClassIdentifier: 
+  entries:
+  - txtName: "\u5E02\u6C11"
+    txtShow: "\u8FD9\u6B21\u4E8B\u4EF6\u8BA9\u6211\u6DF1\u523B\u8BA4\u8BC6\u5230\u4E86\u6587\u7269\u4FDD\u62A4\u7684\u91CD\u8981\u6027\u3002\u6211\u4EEC\u5E94\u8BE5\u73CD\u60DC\u8FD9\u4E9B\u5386\u53F2\u6587\u5316\u9057\u4EA7\uFF0C\u8BA9\u5B83\u4EEC\u6C38\u8FDC\u95EA\u8000\u5728\u4EBA\u7C7B\u6587\u660E\u7684\u957F\u6CB3\u4E2D\u3002"
+    txtPS: "\uFF08\u611F\u6168\u5730\uFF09"
+  - txtName: "\u987E\u8FDC"
+    txtShow: "\u662F\u7684\uFF0C\u6211\u4EEC\u6BCF\u4E2A\u4EBA\u90FD\u662F\u6587\u5316\u9057\u4EA7\u7684\u5B88\u62A4\u8005\u3002\u53EA\u6709\u6211\u4EEC\u5171\u540C\u52AA\u529B\uFF0C\u624D\u80FD\u8BA9\u8FD9\u4E9B\u5B9D\u8D35\u7684\u8D22\u5BCC\u5F97\u4EE5\u4F20\u627F\u548C\u53D1\u626C\u3002"
+    txtPS: "\uFF08\u70B9\u5934\uFF09"
